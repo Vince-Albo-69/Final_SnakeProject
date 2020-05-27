@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment10.params=
+comment10.target=int\ getAllDots()
+comment11.params=
+comment11.target=int\ getDotSize()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ initializeGame()
+comment5.params=
+comment5.target=void\ checkFoodCollisions()
+comment6.params=
+comment6.target=void\ checkCollisions()
+comment7.params=g
+comment7.target=void\ endGame(java.awt.Graphics)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=a\ b\ closeness
+comment9.target=boolean\ proximity(int,\ int,\ int)
+numComments=12
